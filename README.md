@@ -23,7 +23,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shameemkk/react-crud-basic
    ```
 2. Navigate to the project directory:
    ```bash
